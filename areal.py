@@ -1,0 +1,1 @@
+print(4*(int(input().strip())**0.5))
